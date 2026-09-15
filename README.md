@@ -36,7 +36,7 @@
 └─────────────────────────────────────────────────────────────────────┘
 ```
 
-I like building systems that go beyond a demo: **APIs, automation, data flows, browser agents, cloud deployments, and real product workflows.**
+I build systems that go beyond a demo: **APIs, automation, data flows, browser agents, cloud deployments, and real product workflows.**
 
 Currently exploring deeper **cloud architecture, AI systems, data analytics, distributed workflows, and production engineering**.
 
@@ -51,7 +51,7 @@ Currently exploring deeper **cloud architecture, AI systems, data analytics, dis
 ### ⚙️ WMS
 **Warehouse Management System**
 
-A production-oriented warehouse platform built around real-time inventory, multi-warehouse operations, RBAC, auditability, AI assistance, voice/vision workflows and concurrency-safe order processing.
+Production-oriented warehouse platform covering inventory, orders, receiving, picking and dispatch with role-based access, analytics, auditability, AI assistance and voice/vision workflows.
 
 `FastAPI` `MongoDB` `React` `TypeScript` `Vite`
 
@@ -63,7 +63,7 @@ A production-oriented warehouse platform built around real-time inventory, multi
 ### 🤖 AutoFiller AI
 **Document → AI → Browser Automation**
 
-An AI-powered desktop agent that extracts facts from documents, discovers web forms, maps data to fields, fills them through Playwright and verifies the result before stopping at a human review boundary.
+AI desktop agent that extracts facts from documents, discovers web forms, maps data to fields, fills them through Playwright and verifies the result before stopping at a human review boundary.
 
 `Electron` `React` `FastAPI` `Gemini` `Playwright`
 
@@ -77,7 +77,7 @@ An AI-powered desktop agent that extracts facts from documents, discovers web fo
 ### 🧠 Co-Consult
 **AI-powered consulting system**
 
-An ongoing AI/product engineering project focused on building intelligent consulting workflows.
+Product engineering project focused on intelligent consulting workflows and AI-assisted interaction.
 
 `React` `Vite` `AI` `APIs`
 
@@ -86,11 +86,14 @@ An ongoing AI/product engineering project focused on building intelligent consul
 </td>
 <td width="50%">
 
-### 🌐 Portfolio & Product Experiments
+### 🏥 Hospital Management
+**Conversational healthcare workflow**
 
-A collection of product builds, web applications, experiments and engineering work covering full-stack development, data and automation.
+AI-assisted booking and operational workflows with conversational access through MCP + Telegram and a CLI-based readiness system.
 
-**→** [Browse all repositories](https://github.com/Aayush-Dubey123?tab=repositories)
+`FastAPI` `PostgreSQL` `React` `MCP` `Telegram`
+
+**→** [Explore repository](https://github.com/Aayush-Dubey123/booking-system---hospital)
 
 </td>
 </tr>
@@ -98,40 +101,58 @@ A collection of product builds, web applications, experiments and engineering wo
 
 ---
 
-## `03 / HOW I BUILD`
+## `03 / ENGINEERING AT A GLANCE`
 
 ```text
-                 ┌──────────────────────┐
-                 │       PROBLEM        │
-                 └──────────┬───────────┘
-                            ↓
-                 ┌──────────────────────┐
-                 │     ARCHITECTURE     │
-                 └──────────┬───────────┘
-                            ↓
-          ┌─────────────────┼─────────────────┐
-          ↓                 ↓                 ↓
-      FRONTEND            API              DATA
-          │                 │                 │
-          └─────────────────┼─────────────────┘
-                            ↓
-                    AI / AUTOMATION
-                            ↓
-                      TEST & VERIFY
-                            ↓
-                    ☁️ DEPLOY / SHIP
+PROBLEM
+   ↓
+ARCHITECTURE
+   ↓
+FRONTEND ───── API ───── DATA
+   │             │          │
+   └─────────────┼──────────┘
+                 ↓
+          AI / AUTOMATION
+                 ↓
+            TEST & VERIFY
+                 ↓
+           ☁️ DEPLOY / SHIP
 ```
 
-I care about the **whole system** — not only the UI.
+**I care about the whole system — not only the UI.**
 
 ---
 
-## `04 / ENGINEERING STACK`
+## `04 / EXPERIENCE`
+
+### `HOUSE OF RUVI` · Intern · WordPress / CMS
+`2026 — Present`
+
+- Managed **100+ product listings** and promotional content through WordPress CMS.
+- Automated repetitive product-upload workflows and improved catalog management.
+- Optimized product presentation and promotional content for customer engagement.
+
+### `GOLDEN-KULCHA & CO` · Intern · Full-Stack / Product Engineering
+`2026`
+
+- Built a full-stack food ordering system across **3 core workflows**: menu browsing, order placement and order tracking.
+- Connected customer feedback → admin review to reduce manual follow-up.
+- Integrated inventory movement, sales transactions and billing into one operational workflow.
+
+### `IRA-AGRO TECH PVT. LTD` · Intern · ERP Planning
+`2025`
+
+- Supported ERP planning and client coordination across procurement, sales and billing workflows.
+- Structured Excel-based operational workflows, records and reports for tracking and decision-making.
+
+---
+
+## `05 / ENGINEERING STACK`
 
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts,sql" />
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts" />
 </p>
 
 ### Frontend & Backend
@@ -140,19 +161,36 @@ I care about the **whole system** — not only the UI.
 <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,html,css,tailwind,vite" />
 </p>
 
-### Data & Infrastructure
+### Data, Cloud & DevOps
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,supabase,firebase,docker,git,github,vercel" />
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,supabase,firebase,docker,git,github,aws,gcp,vercel" />
 </p>
 
-### Cloud / AI / Automation
+`Azure` · `Render` · `Ansible` · `Shell Scripting` · `REST APIs`
 
-`AWS` · `Azure` · `Google Cloud` · `LLMs` · `RAG` · `AI Agents` · `MCP` · `Playwright`
+### AI / Automation / Systems
+
+`LLMs` · `RAG` · `AI Agents` · `MCP` · `Playwright` · `Computer Vision` · `Speech-to-Text`
+
+### Analytics
+
+`Power BI` · `Microsoft Excel` · `Data Analytics`
 
 ---
 
-## `05 / CURRENT BUILD QUEUE`
+## `06 / RECOGNITION`
+
+```text
+🏆 GEN-AI BOOTCAMP / HACKATHON       → Winner · Eigi.AI
+🎯 ENVISION HACKATHON                → Top 10 · 1000 applicants
+🇮🇳 MEITY DIGITAL INDIA INTERNSHIP    → Shortlisted · 3/4 rounds
+☁️ AWS SOLUTION ARCHITECT             → GeeksforGeeks course / exam track
+```
+
+---
+
+## `07 / CURRENT BUILD QUEUE`
 
 ```text
 [████████████████████████████████████████]  BUILD MODE
@@ -166,7 +204,7 @@ I care about the **whole system** — not only the UI.
 
 ---
 
-## `06 / GITHUB TELEMETRY`
+## `08 / GITHUB TELEMETRY`
 
 <div align="center">
 
@@ -181,7 +219,7 @@ I care about the **whole system** — not only the UI.
 
 ---
 
-## `07 / ENGINEERING PRINCIPLES`
+## `09 / ENGINEERING PRINCIPLES`
 
 ```text
 01  Ship working systems.
@@ -194,7 +232,7 @@ I care about the **whole system** — not only the UI.
 
 ---
 
-## `08 / CONNECT`
+## `10 / CONNECT`
 
 <div align="center">
 
