@@ -1,12 +1,6 @@
 <div align="center">
 
-# AAYUSH DUBEY
-
-### `CLOUD × AI × DATA × SYSTEMS`
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=Building+production-minded+software+systems;Cloud+engineering+%7C+AI+automation+%7C+data;Turning+ideas+into+deployed+systems;Always+building.+Always+learning." alt="Typing introduction" />
-
-<br/>
+<a href="https://github.com/Aayush-Dubey123"><img src="./assets/animated-header.svg" alt="Aayush Dubey — Cloud, AI, Data, Systems" width="100%" /></a>
 
 <a href="https://github.com/Aayush-Dubey123"><img src="https://img.shields.io/badge/GitHub-Aayush--Dubey123-0d1117?style=for-the-badge&logo=github" /></a>
 <a href="https://www.linkedin.com/in/aayush-dubey-ab19a72b9/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -79,7 +73,7 @@ AI desktop agent that extracts facts from documents, discovers web forms, maps d
 
 Product engineering project focused on intelligent consulting workflows and AI-assisted interaction.
 
-`React` `Vite` `AI` `APIs`
+`React` `Vite` `Gemini` `APIs`
 
 **→** [Explore Co-Consult](https://github.com/Aayush-Dubey123/Co-consult-v1)
 
