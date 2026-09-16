@@ -16,16 +16,16 @@
 ┌─────────────────────────────────────────────────────────────────────┐
 │  AAYUSH DUBEY                                                       │
 │                                                                     │
-│  Computer Science & Business Systems student                         │
-│  Cloud-focused developer building AI-enabled applications            │
+│  Computer Science & Business Systems student                        │
+│  Cloud-focused developer building AI-enabled applications           │
 │                                                                     │
-│  FOCUS                                                               │
-│  ├── Cloud Engineering                                               │
-│  ├── AI Automation & Agents                                          │
-│  ├── Data & Backend Systems                                          │
+│  FOCUS                                                              │
+│  ├── Cloud Engineering                                              │
+│  ├── AI Automation & Agents                                         │
+│  ├── Data & Backend Systems                                         │
 │  └── Full-Stack Product Engineering                                 │
 │                                                                     │
-│  CURRENT MODE                                                        │
+│  CURRENT MODE                                                       │
 │  └── BUILD → TEST → DEPLOY → ITERATE                                │
 └─────────────────────────────────────────────────────────────────────┘
 ```
@@ -187,7 +187,7 @@ FRONTEND ───── API ───── DATA
 ## `07 / CURRENT BUILD QUEUE`
 
 ```text
-[████████████████████████████████████████]  BUILD MODE
+[█████████████████████████████████           ]  BUILD MODE
 
 01  Cloud architecture                 ███████████████████░
 02  AI automation & agents             ██████████████████░░
