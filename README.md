@@ -1,3 +1,5 @@
+<h1 align="center">Aayush Dubey — Software &amp; Systems Engineer</h1>
+
 <div align="center">
 
 <a href="https://github.com/Aayush-Dubey123"><img src="./assets/animated-header.svg" alt="Aayush Dubey — Cloud, AI, Data, Systems" width="100%" /></a>
